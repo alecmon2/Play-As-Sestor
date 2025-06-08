@@ -383,6 +383,7 @@ mission "Mereti Hunting (Moderate)"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 1600
 		random < 50
 	source
@@ -410,6 +411,7 @@ mission "Mereti Hunting (Moderate) [1]"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 1600
 		random < 50
 	source
@@ -437,6 +439,7 @@ mission "Mereti Hunting (Moderate) [2]"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 1600
 		random < 50
 	source
@@ -464,6 +467,7 @@ mission "Mereti Hunting (Moderate) [3]"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 1600
 		random < 50
 	source
@@ -491,6 +495,7 @@ mission "Mereti Hunting (Large)"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 4100
 		random < 50
 	source
@@ -518,6 +523,7 @@ mission "Mereti Hunting (Large) [1]"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 4100
 		random < 50
 	source
@@ -545,6 +551,7 @@ mission "Mereti Hunting (Large) [3]"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 4100
 		random < 50
 	source
@@ -572,6 +579,7 @@ mission "Mereti Hunting (Huge)"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 11000
 		random < 50
 	source
@@ -599,6 +607,7 @@ mission "Mereti Hunting (Huge) [1]"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 11000
 		random < 50
 	source
@@ -626,6 +635,7 @@ mission "Mereti Hunting (Huge) [2]"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 11000
 		random < 50
 	source
@@ -743,6 +753,7 @@ mission "Mereti Hunting (Small Fleet)" #Value of 40
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 800
 		random < 50
 	source
@@ -777,6 +788,7 @@ mission "Mereti Hunting (Small Fleet)" #Value of 40
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 800
 		random < 50
 	source
@@ -811,6 +823,7 @@ mission "Mereti Hunting (Medium Fleet)" #Value of 96
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 2500
 		random < 50
 	source
@@ -848,6 +861,7 @@ mission "Mereti Hunting (Medium Fleet) [1]" #Value of 96
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 2500
 		random < 50
 	source
@@ -885,6 +899,7 @@ mission "Mereti Hunting (Large Fleet)" #Value of 160
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 7000
 		random < 50
 	source
@@ -926,6 +941,7 @@ mission "Mereti Hunting (Huge Fleet)" #Value of 320
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 12000
 		random < 50
 	source
@@ -974,6 +990,7 @@ mission "Mereti Hunting (Giant Fleet)" #Value of 768
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		"combat rating" > 20000
 		random < 50
 	source
