@@ -199,6 +199,42 @@ mission "sestor paint"
 event "sestor allegiance"
 	government "Escort"
 		swizzle 0
+	system Asikafarnut
+		add fleet "Kor Sestor Logistics" 2400
+	
+	system Celeborim
+		add fleet "Kor Sestor Logistics" 4800
+	
+	system Makferuti
+		add fleet "Kor Sestor Logistics" 3000
+	
+	system Silikatakafar
+		add fleet "Kor Sestor Logistics" 1800
+	
+	system Sobarati
+		add fleet "Kor Sestor Logistics" 3600
+	
+	system Ferukistek
+		add fleet "Kor Sestor Logistics" 2400
+	
+	system Eneremprukt
+		add fleet "Kor Sestor Logistics" 3000
+		
+	planet "Sestor Ikfar"
+		add outfitter "Basic Necessities"
+		add outfitter "Sestor Basics"
+		add outfitter "Sestor Advanced"
+		add shipyard "Sestor Basics"
+		add shipyard "Sestor Advanced"
+	
+	planet "Sebra Skira"
+		add outfitter "Basic Necessities"
+		add outfitter "Sestor Basics"
+		add shipyard "Sestor Basics"
+	
+	planet "Sopi Lefarkata"
+		add outfitter "Basic Necessities"
+		add outfitter "Sestor Basics"
 
 conversation "default intro"
 	scene "scene/lobby"
