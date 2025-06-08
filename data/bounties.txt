@@ -5,6 +5,7 @@ mission "Mereti Hunting (Very Tiny)"
 	job
 	deadline 14
 	to offer
+		has "sestor creation"
 		random < 50
 	source
 		government "Kor Sestor"
@@ -31,7 +32,8 @@ mission "Mereti Hunting (Very Tiny) [1]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -57,7 +59,8 @@ mission "Mereti Hunting (Very Tiny) [2]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -83,7 +86,8 @@ mission "Mereti Hunting (Tiny)"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -109,7 +113,8 @@ mission "Mereti Hunting (Tiny) [1]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -135,7 +140,8 @@ mission "Mereti Hunting (Tiny) [2]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -161,7 +167,8 @@ mission "Mereti Hunting (Small)"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -187,7 +194,8 @@ mission "Mereti Hunting (Small) [1]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -213,7 +221,8 @@ mission "Mereti Hunting (Small) [2]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -239,7 +248,8 @@ mission "Mereti Hunting (Small) [3]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -265,7 +275,8 @@ mission "Mereti Hunting (Medium)"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -291,7 +302,8 @@ mission "Mereti Hunting (Medium) [1]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -317,7 +329,8 @@ mission "Mereti Hunting (Medium) [2]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -343,7 +356,8 @@ mission "Mereti Hunting (Medium) [3]"
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -639,7 +653,8 @@ mission "Mereti Hunting (Tiny Fleet)" #Value of 24
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -668,7 +683,8 @@ mission "Mereti Hunting (Tiny Fleet) [1]" #Value of 24
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
@@ -697,7 +713,8 @@ mission "Mereti Hunting (Tiny Fleet) [2]" #Value of 24
 	job
 	deadline 14
 	to offer
-		random < 50
+ 		has "sestor creation"
+ 		random < 50
 	source
 		government "Kor Sestor"
 	npc kill
