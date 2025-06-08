@@ -5,6 +5,7 @@ mission "Firka Tesk Investment 1"
 	source "Firka Tesk"
 	destination "Firka Tesk"
 	to offer
+		has "sestor creation"
 		"credits" >= 10000001
 	on offer
 		conversation
