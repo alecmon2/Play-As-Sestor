@@ -53,20 +53,4 @@ shipyard "Sestor Advanced"
 	"Tek Far 78 - Osk"
 	"Tek Far 109"
 	"Kar Ik Vot 349"
-	
-planet "Sestor Ikfar"
-	add outfitter "Basic Necessities"
-	add outfitter "Sestor Basics"
-	add outfitter "Sestor Advanced"
-	add shipyard "Sestor Basics"
-	add shipyard "Sestor Advanced"
-	
-planet "Sebra Skira"
-	add outfitter "Basic Necessities"
-	add outfitter "Sestor Basics"
-	add shipyard "Sestor Basics"
-	
-planet "Sopi Lefarkata"
-	add outfitter "Basic Necessities"
-	add outfitter "Sestor Basics"
-	
+		
