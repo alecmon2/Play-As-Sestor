@@ -90,8 +90,8 @@ ship "Uplifted Met Par Tek 53"
 		"hull" 31100
 		"automaton" 1
 		"crew equivalent" 25
-		"mass" 400
-		"drag" 7.2
+		"mass" 900
+		"drag" 8.6
 		"heat dissipation" .95
 		"fuel capacity" 500
 		"cargo space" 38
@@ -161,8 +161,8 @@ ship "Uplifted Tek Far 71 - Lek"
 		"hull" 40400
 		"automaton" 1
 		"crew equivalent" 50
-		"mass" 610
-		"drag" 9.6
+		"mass" 1240
+		"drag" 14.9
 		"heat dissipation" .7
 		"fuel capacity" 500
 		"cargo space" 71
@@ -253,8 +253,8 @@ ship "Uplifted Tek Far 78 - Osk"
 		"hull" 46700
 		"automaton" 1
 		"crew equivalent" 50
-		"mass" 670
-		"drag" 10.2
+		"mass" 1451
+		"drag" 16.3
 		"heat dissipation" .65
 		"fuel capacity" 400
 		"cargo space" 82
@@ -347,8 +347,8 @@ ship "Uplifted Tek Far 109"
 		"hull" 22800
 		"automaton" 1
 		"crew equivalent" 100
-		"mass" 500
-		"drag" 8.8
+		"mass" 1016
+		"drag" 13.7
 		"heat dissipation" .75
 		"fuel capacity" 500
 		"cargo space" 78
@@ -458,8 +458,8 @@ ship "Uplifted Kar Ik Vot 349"
 		"hull" 96800
 		"automaton" 1
 		"crew equivalent" 150
-		"mass" 1350
-		"drag" 16.8
+		"mass" 3754
+		"drag" 33.6
 		"heat dissipation" .6
 		"fuel capacity" 600
 		"cargo space" 117
